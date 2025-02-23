@@ -1,0 +1,7 @@
+{"extends": ["strongloop"],
+"parser": "babel-eslint",
+"rules": {
+    "no-trailing-spaces":"off",
+    "semi":"off",
+    "space-before-function-paren":"off"
+  }}
